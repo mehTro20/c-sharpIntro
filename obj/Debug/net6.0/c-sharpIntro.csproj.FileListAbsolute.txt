@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\c-sharpIntro\bin\Debug\net6.0\c-sharpIntro.exe
+C:\Users\Admin\source\repos\c-sharpIntro\bin\Debug\net6.0\c-sharpIntro.deps.json
+C:\Users\Admin\source\repos\c-sharpIntro\bin\Debug\net6.0\c-sharpIntro.runtimeconfig.json
+C:\Users\Admin\source\repos\c-sharpIntro\bin\Debug\net6.0\c-sharpIntro.dll
+C:\Users\Admin\source\repos\c-sharpIntro\bin\Debug\net6.0\c-sharpIntro.pdb
+C:\Users\Admin\source\repos\c-sharpIntro\obj\Debug\net6.0\c-sharpIntro.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\c-sharpIntro\obj\Debug\net6.0\c-sharpIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\c-sharpIntro\obj\Debug\net6.0\c-sharpIntro.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\c-sharpIntro\obj\Debug\net6.0\c-sharpIntro.AssemblyInfo.cs
+C:\Users\Admin\source\repos\c-sharpIntro\obj\Debug\net6.0\c-sharpIntro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\c-sharpIntro\obj\Debug\net6.0\c-sharpIntro.dll
+C:\Users\Admin\source\repos\c-sharpIntro\obj\Debug\net6.0\refint\c-sharpIntro.dll
+C:\Users\Admin\source\repos\c-sharpIntro\obj\Debug\net6.0\c-sharpIntro.pdb
+C:\Users\Admin\source\repos\c-sharpIntro\obj\Debug\net6.0\c-sharpIntro.genruntimeconfig.cache
+C:\Users\Admin\source\repos\c-sharpIntro\obj\Debug\net6.0\ref\c-sharpIntro.dll
